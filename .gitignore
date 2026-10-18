@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.zip
+*.log
+*.dump
+*.sql
+*.csv
+*.env
+.env*
+*.pem
+*.key
+private/
+work/
+backups/
+articles/
+writing/

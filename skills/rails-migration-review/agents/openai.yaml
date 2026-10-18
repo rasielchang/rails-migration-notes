@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rails 搬遷計畫審閱"
+  short_description: "根據 Rails 網站搬家經驗，審閱停寫維護窗口的計畫並提醒驗收盲點"
+  default_prompt: "使用 $rails-migration-review 幫我審閱這份可安排停寫維護窗口的 Rails 網站搬家計畫，指出重要盲點、原因與建議追問。"

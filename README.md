@@ -17,6 +17,7 @@
 | 留下一張隨時可看的提醒清單 | [搬家前後檢查表](skills/rails-migration-review/assets/readiness.md) |
 | 請 AI 幫忙找出計畫中的盲點 | [rails-migration-review skill](skills/rails-migration-review/SKILL.md) |
 | 審閱停寫與回復安排 | [切換與回復](skills/rails-migration-review/references/cutover.md) |
+| 檢查環境設定與敏感憑證輪替 | [憑證輪替補充建議](skills/rails-migration-review/references/cutover.md#環境設定與憑證輪替補充建議) |
 | 確認驗收證據是否足夠 | [驗證方法](skills/rails-migration-review/references/verification.md) |
 | 記錄切換步驟與停止條件 | [切換計畫模板](skills/rails-migration-review/assets/cutover-plan.md) |
 | 記錄驗收結果與待處理項目 | [驗收紀錄模板](skills/rails-migration-review/assets/acceptance.md) |
